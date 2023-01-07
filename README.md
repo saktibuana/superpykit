@@ -2,7 +2,7 @@
 
 # Beragam tautan
 
-- **Bergabunglah dengan server discord kami - [Discord](https://discord.gg/yXYUS8R7)**
+- **Bergabunglah dengan server discord kami - [Discord](https://discord.gg/mFSFnmNxBC)**
 - **Dokumentasi - [Wiki](https://github.com/saktibuana/superpykit/wiki)**
 
 ## Cara pemasangan dan Versi yang terdukung
