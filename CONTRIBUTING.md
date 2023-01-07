@@ -35,15 +35,15 @@ Untuk para pengguna VSCode, buatlah folder `.vscode` dalam direktori proyek dan 
 
 Bisa juga menggunakan `black filename` dalam terminal untuk melakukan format pada masing-masing file secara terpisah.
 
-**Make sure to use pre-commit with `pre-commit run --all-files` before pushing your changes.**
+**Pastikan melakukan pre-commit dengan `pre-commit run --all-files` sebelum Anda melakukan push perubahan.**
 
-## Contributing Code
+## Menyumbang Code
 
-Code contributions of just about any size are acceptable!
+Sumbangan code sekecil apapun dipersilahkan!
 
-Setting up a development environment:
+Lakukan pengaturan ini terhadap environment untuk development:
 
-1. Fork the repository and then clone it to your local computer.
+1. Lakukan fork terhadap repository dan lakunan clone sehingga tersedia di komputer lokal kita.
 2. PILIHAN INI TIDAK HARUS, TAPI SANGAT DISARANKAN: Buatlah environment virtual baru menggunakan `virtualenv` dengan code `python3 -m venv venv`.
 3. Aktifkan environment virtual dan pasanglah dependency terkait proyek ini menggunakan code `pip3 install -r requirements-dev.txt`.
 4. Selamat 🎉, sekarang Anda telah siap untuk memberikan sumbangan code.
@@ -62,11 +62,11 @@ CATATAN: Untuk menyumbang dalam bentuk Dokumentasi, ikuti langkah yang sama deng
 
 ## Menambahkan Fitur Baru
 
-Here are some few things to keep in mind before working on a new feature:
+Ada beberapa hal yang perlu dipertimbangkan sebelum mengerjakan fitur baru:
 
-* We really want this library to be lightweight so please don't add features with heavy dependencies.
-* Keep the features relevant to the library.
-* Before adding a new feature, open up an Issue to discuss it or ping any mods on discord.
+* Kami sangat menginginkan library ini tetap masuk kategori ringan maka, dimohon tidak menambahkan fitur-fitur yang memiliki dependency yang berat.
+* Tetapkan fitur-fiturnya terpaut dengan library.
+* Sebelum menambahkan fitur baru, bukalah issue untuk berdiskusi mengenai fitur tersebut atau hubungi para pemelihara repository ini melalui discord.
 
 ## Memberikan Bantuan pada Issue
 
